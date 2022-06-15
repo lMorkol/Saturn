@@ -1,0 +1,44 @@
+body {
+
+    background: url("../imgs/back-home.jpg") no-repeat;
+}
+.top-link{
+    color: khaki;
+    margin-left: 35px;
+}
+.headers{
+    display: flex;
+    align-items: flex-end;
+}
+.title{
+    color: khaki;
+    padding-left: 0px;
+    font-size: 50px;
+}
+.logo {
+    display: block;
+    width: 220px;
+    height: 80px;
+    margin: 20px;
+    border-radius: 50%;
+}
+.rights{
+    color: khaki;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 13px;
+}
+.catalog{
+    display: flex;
+    align-items: flex-end;
+    margin-left: 25px;
+}
+.item{
+    text-align: center;
+    color: #FFDEAD;
+    margin-left: 20px;
+}
+.catalog-photo{
+    width: 240px;
+    height: 300px  ;
+}
